@@ -23,6 +23,10 @@ export const nav = [
     text: "contact",
     path: "/contact",
   },
+  {
+    text: "Org",
+    path: "/org",
+  },
 ]
 export const featured = [
   {
